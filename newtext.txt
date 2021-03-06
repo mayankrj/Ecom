@@ -1,0 +1,61 @@
+How many HTTP GET request messages did your browser send? To which Internet addresses were these GET requests sent?
+
+2.Can you tell whether your browser downloaded the two images serially, or whether they were downloaded from the two web sites in parallel? Explain.
+PIYUSH GUPTA 181031985:13 PM
+39 times
+jiit.ac.in
+
+http://www.eeng.dcu.ie/~ee553/ee402notes/html/ch01s05.html
+
+
+Data swamp: A data swamp is a badly designed, inadequately documented, or poorly maintained data lake. These deficiencies compromise the ability to retrieve data, and users are unable to analyze and exploit the data efficiently. Even though the data exists, the data swamp cannot retrieve it without contextual metadata.
+
+
+
+
+
+Why LEDs made with indirect band gap material less bright than those made with direct bandgap material?
+The process that generates a photon is an electron-hole pair recombination. In order for an electron and hole to recombine and eject a photon, their momenta must match -- or rather, they have to be in the same vertical position on the E-k diagram.
+
+This is possible on a direct band gap. Easy, in fact. So easy that nearly 100% of electron-hole pair recombinations result in a photon emission. This measure is called internal quantum efficiency.
+
+It's not so easy with an indirect band gap. It requires interaction with a third pseudo-particle, the phonon (lattice vibration, carries significant momentum but not significant energy) in order to get the momentum to match. While photon emission still happens, the necessity of a third particle to interact drops the probability a lot, so it's much closer to 1 photon emission per thousand electron-hole pair recombinations. Instead, 999/1000 recombination events happen at defect sites, such as the donor atoms the semiconductor is doped with
+
+
+
+
+
+
+
+
+
+https://zeroproject.org/practice/pra181484aut-factsheet/#:~:text=Mopius%20is%20an%20IT%20start,more%20than%2025%20hospitality%20companies.
+https://towardsdatascience.com/yelp-restaurant-recommendation-system-capstone-project-264fe7a7dea1
+
+https://afb.org/blindness-and-low-vision/using-technology/online-shopping-and-banking-accessibility-people-visual-2
+https://www.nfb.org/programs-services/knfb-reader#:~:text=If%20you%20have%20any%20visual,Receipts
+
+https://www.everydaysight.com/best-apps-for-visually-impaired/
+
+
+
+chatbot reply
+face detection
+report to guardians
+meditation
+
+
+
+March 4th, 2021 
+To Do
+12-1 wash hair and freshen up
+1-2 lunch
+2-3 study and pracrice for mid term - C,C++
+3-4 
+
+
+
+
+
+
+
